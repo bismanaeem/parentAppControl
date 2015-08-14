@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/CMPT276-COA/!svn/ver/270/ChildSafePhone
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/CMPT276-COA/!svn/ver/98/ChildSafePhone/default.properties
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/CMPT276-COA/!svn/ver/224/ChildSafePhone/AndroidManifest.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/CMPT276-COA/!svn/ver/98/ChildSafePhone/.project
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/CMPT276-COA/!svn/ver/98/ChildSafePhone/proguard.cfg
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/CMPT276-COA/!svn/ver/98/ChildSafePhone/.classpath
+END

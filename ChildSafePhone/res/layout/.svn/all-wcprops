@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/CMPT276-COA/!svn/ver/234/ChildSafePhone/res/layout
+END
+mainmenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/CMPT276-COA/!svn/ver/143/ChildSafePhone/res/layout/mainmenu.xml
+END
+child.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/CMPT276-COA/!svn/ver/167/ChildSafePhone/res/layout/child.xml
+END
+delete_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/CMPT276-COA/!svn/ver/184/ChildSafePhone/res/layout/delete_dialog.xml
+END
+help.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/CMPT276-COA/!svn/ver/143/ChildSafePhone/res/layout/help.xml
+END
+add_contact.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CMPT276-COA/!svn/ver/198/ChildSafePhone/res/layout/add_contact.xml
+END
+add_a_contact.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/CMPT276-COA/!svn/ver/234/ChildSafePhone/res/layout/add_a_contact.xml
+END
+password_login.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CMPT276-COA/!svn/ver/173/ChildSafePhone/res/layout/password_login.xml
+END
+splash.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/CMPT276-COA/!svn/ver/143/ChildSafePhone/res/layout/splash.xml
+END
+call_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CMPT276-COA/!svn/ver/227/ChildSafePhone/res/layout/call_dialog.xml
+END
+edit_contact.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CMPT276-COA/!svn/ver/206/ChildSafePhone/res/layout/edit_contact.xml
+END
+password_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CMPT276-COA/!svn/ver/173/ChildSafePhone/res/layout/password_dialog.xml
+END
+grid_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/CMPT276-COA/!svn/ver/198/ChildSafePhone/res/layout/grid_item.xml
+END
+delete_contact.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CMPT276-COA/!svn/ver/215/ChildSafePhone/res/layout/delete_contact.xml
+END
+parentsettings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CMPT276-COA/!svn/ver/170/ChildSafePhone/res/layout/parentsettings.xml
+END
+edit_a_contact.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CMPT276-COA/!svn/ver/175/ChildSafePhone/res/layout/edit_a_contact.xml
+END
+icon_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CMPT276-COA/!svn/ver/228/ChildSafePhone/res/layout/icon_dialog.xml
+END
